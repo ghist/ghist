@@ -6,17 +6,16 @@
 - ⚡ Fun fact: Adoro viajar, apesar de não fazer muito isso kkkkkk
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=aura)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&layout=compact&theme=aura)](https://github.com/ghist/github-readme-stats)
-
-
-
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=aura)
+-->
 ### Sociais
 <div> 
   <a href="https://www.linkedin.com/in/marcos-vinicius-batista-sampaio-a784a4200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### Linguagem e ferramentas
+### Linguagens e ferramentas
 <div>
   <img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
