@@ -1,4 +1,4 @@
-# Olá, me chamo Marcos Vinicius Batista Sampaio 🤞
+# Olá, me chamo Marcos Vinicius Batista Sampaio ✌
 
 ### Sou um estudante de sistemas de informação tentando se reinventar e aprender sobre programação.
 
