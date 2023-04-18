@@ -10,6 +10,7 @@
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=aura)
 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ghist&bg_color=000000&color=2fbb25&line=00ffee&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### Sociais
 <div> 
   <a href="https://www.linkedin.com/in/marcos-vinicius-batista-sampaio-a784a4200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
