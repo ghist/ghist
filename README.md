@@ -7,7 +7,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=aura)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&layout=compact&theme=aura)](https://github.com/ghist/github-readme-stats)
 
 
 
