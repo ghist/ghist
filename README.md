@@ -5,10 +5,9 @@
 - 🌱 Atualmente estou estudando Front-end com JavaScript e Html-Css, futuramente chegando a TypeScript, React, Angular e node
 - ⚡ Fun fact: Adoro viajar, apesar de não fazer muito isso kkkkkk
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&theme=dark)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghist&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=aura)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&theme=aura)
 
 
 
