@@ -7,6 +7,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghist&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ghist&theme=dark)
 
 
 
