@@ -5,10 +5,14 @@
 - 🌱 Atualmente estou estudando Front-end com JavaScript e Html-Css, futuramente chegando a TypeScript, React e Angular
 - ⚡ Fun fact: Adoro viajar, apesar de não fazer muito isso kkkkkk
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghist&theme=dark)
+
+
+
 ### Sociais
 <div> 
   <a href="https://www.linkedin.com/in/marcos-vinicius-batista-sampaio-a784a4200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 </div>
 
 ### Linguagem e ferramentas
@@ -19,6 +23,7 @@
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
   <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
   
   
