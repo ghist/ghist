@@ -2,7 +2,7 @@
 
 ### Sou um estudante de sistemas de informação tentando se reinventar e aprender sobre programação.
 
-- 🌱 Atualmente estou estudando Front-end com JavaScript e Html-Css, futuramente chegando a TypeScript, React e Angular
+- 🌱 Atualmente estou estudando Front-end com JavaScript e Html-Css, futuramente chegando a TypeScript, React, Angular e node
 - ⚡ Fun fact: Adoro viajar, apesar de não fazer muito isso kkkkkk
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ghist&theme=dark)
